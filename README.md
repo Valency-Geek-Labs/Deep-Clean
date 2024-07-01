@@ -1,4 +1,4 @@
-# Deep Clean
+# Deep Clean v1.0.0
 A simple software that could save the time of Data scientists and Data analysts by eliminating the preliminary cleaning process.
 
 ## How to use:
